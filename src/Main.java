@@ -7,6 +7,8 @@ public class Main {
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = "+i);
             System.out.println("i^2 = "+i*i);
+            System.out.println("i^3 = "+i*i*i);
+            System.out.println("i^4 = "+i*i*i*i);
         }
     }
 }
